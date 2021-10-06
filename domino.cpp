@@ -7,7 +7,6 @@
 #include "FilaInt.h"
 #include "pilha.h"
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 int main(){
 	struct jogador{
 		char Nome[30];
